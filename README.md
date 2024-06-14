@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
 
 [Personal](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
@@ -80,3 +81,7 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-personal/blob/master/LICENSE) license.
+=======
+# intech2024
+This is Wordpress Custom Theme for Student Representative Council System(SRC) or known as Information Technology Student Association(INTECH) 
+>>>>>>> 49d7480f5366459294447e4a2fb2ceb9b62e17c7
