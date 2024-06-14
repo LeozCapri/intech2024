@@ -1,0 +1,11 @@
+.featured-image-container {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.featured-image {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+}
