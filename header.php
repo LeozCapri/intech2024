@@ -84,14 +84,14 @@ if (in_array('student', $user_roles)) {
                                 <li class="scroll-to-section">
                                     <a href="<?php echo site_url('/news'); ?>">News</a>
                                     <ul class="submenu">
-                                        <li><a href="#news1">News 1</a></li>
+                                        <li><a href="/manage-news">Manage</a></li>
                                         <li><a href="#news2">News 2</a></li>
                                     </ul>
                                 </li>
                                 <li class="scroll-to-section">
                                     <a href="<?php echo site_url('/programs'); ?>">Program</a>
                                     <ul class="submenu">
-                                        <li><a href="#program1">Program 1</a></li>
+                                        <li><a href="/manage-programs">Manage</a></li>
                                         <li><a href="#program2">Program 2</a></li>
                                     </ul>
                                 </li>

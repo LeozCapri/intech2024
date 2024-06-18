@@ -215,7 +215,7 @@ foreach ($page_specific_classes as $slug => $class) {
                 endwhile;
                 wp_reset_postdata();
             else:
-                echo '<p>No upcoming events found.</p>';
+                echo '<p style="text-align:center;">No upcoming events found.</p>';
             endif;
             ?>
         </div>
@@ -320,30 +320,7 @@ foreach ($page_specific_classes as $slug => $class) {
 
 
 <style>
-    #login-form {
-        margin-top: 20px;
-    }
-
-    .input-field {
-        width: 100%;
-        padding: 10px;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-    }
-
-    #login-submit {
-        background-color: #f26722;
-        color: #fff;
-        border: none;
-        padding: 10px 20px;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-
-    #login-submit:hover {
-        background-color: #e3550a;
-    }
+  
 </style>
 
 
